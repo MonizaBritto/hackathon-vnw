@@ -3,7 +3,7 @@ import React from "react"
 function Inicio() {
     return(
         <>
-        <h1>oi</h1>
+        <h1>oi, tudo bem.</h1>
         </>
     )
 }
